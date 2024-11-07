@@ -1,5 +1,5 @@
 # Langkah-Instalasi-DNS-Server-
-Masukkan cd 2 dan 3
+cdrom-add Langkah kerjaMasukkan cd 2 dan 3
 # apt-cdrom add
 # apt-get update
 Instalasi aplikasi DNS server
