@@ -1,5 +1,5 @@
 # Langkah-Instalasi-DNS-Server-
-add-cdrom Langkah Kerja
+Langkah Kerja
 Masukkan cd 2 dan 3
 # apt-cdrom add
 # apt-get update
